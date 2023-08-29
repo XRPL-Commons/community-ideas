@@ -200,3 +200,5 @@ Pay-per-minute for streaming services using XRP.
 50.  **"Energy Consumption Bets"** 
 Bet XRP on whether energy targets will be met in a community. 
 `Energy Data`, `Betting`
+
+Contribute to this list on [github](https://github.com/XRPL-Commons/community-ideas)
