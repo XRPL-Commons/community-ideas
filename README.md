@@ -1,12 +1,8 @@
 # XRPL Community Ideas
 
-A repository of ideas for the community.
+A repository of ideas for the XRPL builder community.
 
-# XRPL Community Ideas
-
-A repository of ideas for the community.
-
-[Hackathonn Ideas](hackathon/index.md)
+[Hackathon Ideas](hackathon/index.md)
 
 [Platform Ideas](platform/index.md)
 

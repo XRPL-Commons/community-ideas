@@ -1,4 +1,7 @@
-Concept Name	Description	Key Features
+# Hackathon Ideas
+
+ These are ideas for short projects to build on the XRP Ledger. Below is a list of concept names, descriptions, and key features for each idea:
+
 1. "Tip Jar Plugin"	A browser plugin that lets users tip content creators in XRP.	Browser Extension, Microtransactions
 2. "Charity Crowdfund"	A mini crowdfunding platform to raise XRP for charities.	Donation Tracking, Transparency Ledger
 3. "Local Marketplace"	A decentralized marketplace for local goods and services paid in XRP.	Geo-Location, P2P Payments
