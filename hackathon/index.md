@@ -1,204 +1,184 @@
-# Hackathon Ideas  
-  
-These are ideas for short projects to build on the XRP Ledger. Below is a list of concept names, descriptions, and key features for each idea:  
-1.  **"Tip Jar Plugin"**   
-A browser plugin that lets users tip content creators in XRP.   
-`Browser Extension`, `Microtransactions`  
-  
-2. "**Charity Crowdfund"**   
-A mini crowdfunding platform to raise XRP for charities.   
-`Donation Tracking`, `Transparency Ledger`  
-  
-3.  **"Local Marketplace"**   
-A decentralized marketplace for local goods and services paid in XRP.   
-`Geo-Location`, `P2P Payments`  
-  
-4.  **"Expense Splitter"**   
-An app that helps users split expenses and settle debts in XRP.   
-`Expense Logging`, `Instant Settlement`  
-  
-5.  **"Freelance Gig Finder"**   
-A platform to match freelancers with gigs, paid in XRP.   
-`Skill Matching`, `Smart Contracts`  
-  
-6.  **"Carbon Offset Mobile App"**   
-An app to calculate and purchase carbon offsets in XRP.   
-`Carbon Calculation`, `Instant Purchase`  
-  
-7.  **"Flash Loans"**   
-Implement flash loans using XRP Ledger's features.   
-`Smart Contracts`, `Loan Lifecycle`  
-  
-8.  **"Travel Booking"**   
-A simplified travel booking platform with payments in XRP.   
-`API Integration`, `Instant Payments`  
-  
-9.  **"Energy Tokenization"**   
-Tokenize small-scale renewable energy production.   
-`Energy Data`, `Smart Contracts`  
-  
-10.  **"Paywall Manager"**   
-Enable content creators to set up paywalls payable in XRP.   
-`Content Management`, `Microtransactions`  
-  
-11.  **"NFT Art Gallery"**   
-Create a virtual art gallery to display and sell NFTs on the XRP Ledger.   
-`NFTs`, `Virtual Gallery`  
-  
-12.  **"Decentralized Voting"**   
-A simple and secure decentralized voting system.   
-`Voting Protocol`, `Transparency Ledger`  
-  
-13.  **"Crypto Treasure Hunt"**   
-Geo-caching game where XRP is the treasure.   
-`Geo-Location`, `Smart Contracts`  
-  
-14.  **"Subscription Manager"**   
-Manage and pay for all your subscriptions in XRP.   
-`Subscription APIs`, `Recurring Payments`  
-  
-15.  **"Invoice Generator"**   
-An invoicing system that accepts XRP.   
-`Invoice Management`, `Instant Payments`  
-  
-16.  **"Ride Share Payments"**   
-A simplified ride-sharing payment system in XRP.   
-`Ride-Tracking`, `P2P Payments`  
-  
-17.  **"Budget Tracker"**   
-Track and manage your budget in XRP.   
-`Expense Logging`, `Budget Alerts`  
-  
-18.  **"Supply Chain Demo"**   
-A simple supply chain tracking system.   
-`Product Tracking`, `Transparency Ledger`  
-  
-19.  **"Ticketing System"**   
-Event ticketing system with counterfeit protection.   
-`Ticket Issuance`, `Smart Contracts`  
-  
-20.  **"IoT Feeder"**   
-Pet food dispenser that accepts XRP payments.   
-`IoT`, `Microtransactions`  
-  
-21.  **"Grocery List and Pay"**   
-Compile your grocery list and pre-pay in XRP.   
-`List Management`, `Pre-payment`  
-  
-22.  **"Personal Savings Contract"**   
-Smart contract-based personal savings plans.   
-`Savings Plan`, `Smart Contracts`  
-  
-23.  **"Receipt Tracker"**   
-Track and verify purchase receipts on the XRP Ledger.   
-`Receipt Logging`, `Verification`  
-  
-24.  **"Freelancer Escrow"**   
-Escrow service for freelancers and clients.   
-`Escrow`, `Smart Contracts`  
-  
-25.  **"Simple Exchange"**   
-A simplified crypto exchange platform.   
-`Crypto Trading`, `Smart Contracts`  
-  
-26.  **"Social Betting"**   
-A social betting platform using XRP.   
-`Bet Placement`, `P2P Payments`  
-  
-27.  **"Crypto Quiz App"**   
-Educational quiz app with XRP rewards.   
-`Quizzes`, `Rewards System`  
-  
-28.  **"Virtual Garage Sale"**   
-Sell used items in a virtual garage sale for XRP.   
-`Item Listing`, `P2P Payments`  
-  
-29.  **"Fast Food Preorder"**   
-Fast-food preordering system with XRP payments.   
-`Order Management`, `Instant Payment`  
-  
-30.  **"Price Alert"**   
-A simple XRP price alert system.   
-`Price Tracking`, `Notifications`  
-  
-31.  **"Microloan Platform"**   
-P2P microloans in XRP.   
-`Loan Management`, `P2P Payments`  
-  
-32.  **"Study Group Finder"**   
-A study group finder app with incentivized commitments in XRP.   
-`Group Matching`, `Incentives`  
-  
-33.  **"Daily Task Rewards"**   
-Get rewarded in XRP for completing daily tasks.   
-`Task Management`, `Rewards System`  
-  
-34.  **"Coupon Manager"**   
-Manage and redeem coupons with XRP.   
-`Coupon Database`, `Redemption`  
-  
-35.  **"Digital Piggy Bank"**   
-A digital piggy bank for kids, backed by real XRP.   
-`Savings`, `Parental Control`  
-  
-36.  **"Decentralized Chat"**   
-A decentralized chat app with optional premium features paid in XRP.   
-`Chat`, `Microtransactions`  
-  
-37.  **"Online Tipping for Service Workers"**   
-Allows online tipping for service workers like waiters, paid in XRP.   
-`Tipping`, `P2P Payments`  
-  
-38.  **"Crypto Guest Checkout"**   
-Guest checkout payment option for e-commerce sites in XRP.   
-`E-commerce`, `Instant Payments`  
-  
-39.  **"Crypto Milestone Tracker"**   
-Track and achieve milestones to earn XRP rewards.   
-`Milestone Tracking`, `Rewards System`  
-  
-40.  **"Rent Payment App"**   
-Pay your rent or collect rent payments in XRP.   
-`Rent Management`, `Instant Payments`  
-  
-41.  **"Book Exchange"**   
-Platform to trade or sell books for XRP.   
-`Book Listings`, `P2P Payments`  
-  
-42.  **"Music Jukebox"**   
-Vote for the next song to be played in public spaces by paying small XRP amounts.   
-`Music Voting`, `Microtransactions`  
-  
-43.  **"Tournament Bracket Betting"**   
-Betting platform for sports tournaments, paid in XRP.   
-`Betting`, `Tournament Brackets`  
-  
-44.  **"Recipe Swap"**   
-Swap recipes with others and pay in XRP.   
-`Recipe Exchange`, `Microtransactions`  
-  
-45.  **"Study Material Marketplace"**   
-Buy and sell study materials with XRP.   
-`Material Listings`, `P2P Payments`  
-  
-46.  **"Remote Coffee Buy"**   
-Buy a friend a coffee remotely with XRP.   
-`Coffee Ordering`, `Instant Payment`  
-  
-47.  **"XRP Funded Journalism"**   
-Crowdfund investigative journalism projects using XRP.   
-`Crowdfunding`, `Journalism`  
-  
-48.  **"Social Media Likes for Charity"**   
-Convert social media likes into XRP donations for charity.   
-`Social Media`, `Charity Donations`  
-  
-49.  **"Streaming Micropayments"**   
-Pay-per-minute for streaming services using XRP.   
-`Streaming`, `Microtransactions`  
-  
-50.  **"Energy Consumption Bets"**   
-Bet XRP on whether energy targets will be met in a community.   
-`Energy Data`, `Betting`  
-  
-Contribute to this list on [github](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md)
+# Hackathon Ideas
+
+Actionable project ideas for building on the XRP Ledger. Each idea is scoped for a hackathon (24-72 hours), has a clear path to generating on-chain transaction volume, and can be demoed live.
+
+---
+
+## Track 1 -- Make Waves
+
+Build applications that drive real usage, sustainable TVL, and ecosystem growth on XRPL.
+
+### Payments & Micropayments
+
+1. **X402 Pay-Per-Article**
+   A middleware that serves web content behind HTTP 402 paywalls. Readers pay per article in XRP microtransactions. Publishers set prices per page. Every read is an on-chain payment.
+   `X402`, `Micropayments`, `Payment Channels`
+
+2. **Streaming Tips**
+   Live-streaming overlay where viewers send XRP tips that trigger on-screen animations. Each tip is a real XRPL payment. Integrate with OBS/Twitch chat via webhooks.
+   `Micropayments`, `Webhooks`, `Payment Channels`
+
+3. **Split & Settle**
+   Group expense app where users create a shared wallet, log expenses, and settle balances in XRP. Final settlement triggers multiple on-chain payments atomically.
+   `Multi-signing`, `Payments`, `Escrow`
+
+4. **Subscription Escrow**
+   Recurring payment system using XRPL escrows. Users lock XRP monthly, service providers claim on delivery. Cancel anytime -- unclaimed escrows return automatically.
+   `Escrow`, `Time-based Release`, `Recurring Payments`
+
+### DeFi & Trading
+
+5. **RLUSD Remittance Rail**
+   Cross-border remittance app using RLUSD. User sends RLUSD on XRPL, recipient gets a notification to cash out. Each transfer is an on-chain payment with trustline setup.
+   `RLUSD`, `Trustlines`, `Cross-border Payments`
+
+6. **DEX Limit Order Bot**
+   Automated trading bot that places and manages limit orders on the XRPL DEX. Users set strategies (DCA, grid trading), bot executes OfferCreate/OfferCancel transactions.
+   `DEX`, `OfferCreate`, `Automated Trading`
+
+7. **Liquidity Pool Dashboard**
+   AMM interface for XRPL's native AMM. Users can deposit/withdraw liquidity, view pool stats, and track fees earned. Every LP action is on-chain.
+   `AMM`, `Liquidity Provision`, `AMMDeposit/Withdraw`
+
+8. **Flash Swap Arbitrage**
+   Bot that detects price discrepancies across XRPL DEX pairs and executes arbitrage in a single transaction. Generates high transaction volume by design.
+   `DEX`, `Path Finding`, `OfferCreate`
+
+### Gaming & Engagement
+
+9. **Prediction Market**
+   Binary prediction market where users bet XRP on yes/no outcomes. Market maker holds funds in escrow, pays winners on resolution. Every bet and payout is on-chain.
+   `Escrow`, `Conditional Release`, `Multi-signing`
+
+10. **NFT Battle Cards**
+    Collectible card game where cards are XRPL NFTs. Players mint, trade, and wager cards in PvP battles. Card trades use NFTokenCreateOffer/Accept. Wagers use escrow.
+    `NFTs`, `NFTokenMint`, `Escrow`
+
+11. **On-Chain Achievements**
+    Gaming achievement system where completing in-game milestones mints achievement NFTs on XRPL. Achievements are tradeable. Rare ones have real value.
+    `NFTs`, `NFTokenMint`, `Metadata`
+
+12. **Arcade Token Machine**
+    Web arcade where users deposit XRP to get play tokens (issued currency). Win games to earn more tokens. Cash out tokens back to XRP via the DEX.
+    `Issued Currencies`, `Trustlines`, `DEX`
+
+### AI-to-AI & Agents
+
+13. **AI Agent Marketplace**
+    Platform where AI agents offer services (summarization, translation, code review) and get paid in XRP per request. Each API call triggers a micropayment. Agents can also pay other agents.
+    `X402`, `Micropayments`, `Agent-to-Agent`
+
+14. **Data Feed Oracle**
+    On-chain oracle that AI agents pay to query. Price feeds, weather data, sports scores -- each query costs a small XRP fee. Data is posted to XRPL memos for transparency.
+    `Memos`, `Micropayments`, `Oracle Pattern`
+
+15. **AI Content Bounty Board**
+    Post bounties for AI-generated content (articles, images, code). AI agents claim bounties, submit work, humans approve, payment releases from escrow automatically.
+    `Escrow`, `Conditional Release`, `Memos`
+
+### Ad-Tech & Attention Economy
+
+16. **Pay-Per-Click Ads**
+    Decentralized ad network where advertisers deposit XRP, publishers get paid per verified click. Smart escrow releases funds based on click proofs stored in memos.
+    `Escrow`, `Memos`, `Micropayments`
+
+17. **Survey Rewards**
+    Users earn XRP for completing surveys. Each completed survey triggers an instant on-chain payment. Brands fund survey pools via escrow.
+    `Escrow`, `Micropayments`, `Payments`
+
+---
+
+## Track 2 -- Impact Finance
+
+Blockchain at the service of social and environmental impact.
+
+### Financial Inclusion
+
+18. **Micro-Savings Circles (Tontine)**
+    Digital tontine/savings circle where members contribute XRP weekly via escrow. Each round, one member receives the pool. All contributions and payouts are on-chain.
+    `Escrow`, `Multi-signing`, `Scheduled Payments`
+
+19. **Micro-Insurance Pool**
+    Community insurance pool where members deposit small XRP amounts. Claims are voted on by members (multi-sign). Approved claims trigger automatic payout.
+    `Multi-signing`, `Escrow`, `Voting`
+
+20. **Remittance for the Unbanked**
+    Simple mobile-first remittance app targeting unbanked populations. Sender pays in XRP/RLUSD, recipient gets a QR code to cash out at local agents. Every transfer is on-chain.
+    `RLUSD`, `Payments`, `QR Codes`
+
+21. **Micro-Lending Circle**
+    P2P micro-lending where lenders fund loans via escrow with time-based release. Borrowers repay in installments. Credit score tracked via on-chain repayment history.
+    `Escrow`, `Time-based Release`, `Memos`
+
+### Climate & Environment
+
+22. **Carbon Credit Marketplace**
+    Tokenize carbon credits as XRPL issued currencies. Businesses buy credits to offset emissions, credits are burned (sent to black-hole account). Every purchase and retirement is on-chain.
+    `Issued Currencies`, `Trustlines`, `Token Burning`
+
+23. **Community Solar Ledger**
+    Track community solar panel energy production. Producers earn energy tokens (issued currency on XRPL). Consumers buy tokens to offset their energy bill. All trades on the DEX.
+    `Issued Currencies`, `DEX`, `IoT Integration`
+
+24. **Reforestation Tracker**
+    Fund tree planting with XRP. Each tree is an NFT with GPS coordinates and growth photos. Donors can track their tree's progress. Planting organizations receive funds via escrow.
+    `NFTs`, `Escrow`, `Metadata Updates`
+
+### Humanitarian & Social Good
+
+25. **Transparent Aid Distribution**
+    Aid organizations distribute funds in RLUSD to beneficiaries. Every disbursement is on-chain and publicly auditable. Beneficiaries spend at approved merchants.
+    `RLUSD`, `Trustlines`, `Payments`
+
+26. **Disaster Relief Fund**
+    Crowdfunding for disaster relief where donations are in XRP, held in multi-sign escrow. Fund release requires approval from multiple aid organizations. Full transparency.
+    `Multi-signing`, `Escrow`, `Crowdfunding`
+
+27. **Education Scholarship DAO**
+    Community-funded scholarship pool. Members contribute XRP, vote on scholarship recipients via multi-sign. Funds release to the student's wallet on approval.
+    `Multi-signing`, `Escrow`, `Voting`
+
+28. **Supply Chain Provenance**
+    Track fair-trade goods from producer to consumer. Each handoff is a transaction with memo data (GPS, timestamp, handler). Consumers scan QR to see the full chain.
+    `Memos`, `NFTs`, `Supply Chain`
+
+---
+
+## General Ideas (Any Track)
+
+29. **NFT Event Tickets**
+    Mint event tickets as NFTs. Transfer = resale (with royalty enforced by XRPL). Check-in burns the ticket. Every mint, transfer, and burn is on-chain.
+    `NFTs`, `NFTokenMint`, `Transfer Fees`
+
+30. **Freelancer Escrow**
+    Client deposits XRP in escrow, freelancer delivers work, client approves release. Dispute resolution via multi-sign arbitrator. Every project = 2-3 on-chain transactions minimum.
+    `Escrow`, `Multi-signing`, `Conditional Release`
+
+31. **Loyalty Points System**
+    Issue loyalty tokens as XRPL currency. Customers earn tokens on purchase, redeem for rewards. Tokens tradeable on DEX. Every purchase and redemption is on-chain.
+    `Issued Currencies`, `Trustlines`, `DEX`
+
+32. **DAO Treasury Manager**
+    Multi-sig wallet for DAO treasuries. Members propose and vote on spending. Approved proposals auto-execute payments. All governance is on-chain via memos.
+    `Multi-signing`, `Memos`, `Payments`
+
+33. **Digital Identity Credentials**
+    Issue verifiable credentials as NFTs (diplomas, certificates, badges). Institutions mint, holders present, verifiers check on-chain. Credential = NFT with metadata.
+    `NFTs`, `Metadata`, `Verification`
+
+34. **Bounty Board**
+    Post open-source bounties funded with XRP escrow. Developers claim, submit PRs, maintainers approve, escrow releases. Every bounty lifecycle generates 3+ transactions.
+    `Escrow`, `Conditional Release`, `Memos`
+
+35. **Payroll on XRPL**
+    Batch payroll system that pays employees/contractors in XRP or RLUSD. Employer loads funds, system distributes on schedule. Each pay run = N on-chain payments.
+    `Payments`, `RLUSD`, `Batch Transactions`
+
+---
+
+**How to pick an idea:**
+1. Can you demo a working transaction in 24 hours? If not, scope down.
+2. Does normal usage generate on-chain transactions? The more transactions per user action, the better.
+3. Can a judge try it live? Build for testnet with a faucet-funded demo wallet.
+
+Contribute to this list on [GitHub](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md)
