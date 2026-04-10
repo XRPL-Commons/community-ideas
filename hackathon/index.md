@@ -4,7 +4,7 @@ Actionable project ideas for building on the XRP Ledger. Each idea is scoped for
 
 ---
 
-## Track 1 -- Make Waves
+## Make Waves
 
 Build applications that drive real usage, sustainable TVL, and ecosystem growth on XRPL.
 
@@ -88,7 +88,7 @@ Build applications that drive real usage, sustainable TVL, and ecosystem growth 
 
 ---
 
-## Track 2 -- Impact Finance
+## Impact Finance
 
 Blockchain at the service of social and environmental impact.
 
@@ -144,7 +144,7 @@ Blockchain at the service of social and environmental impact.
 
 ---
 
-## General Ideas (Any Track)
+## General Ideas
 
 29. **NFT Event Tickets**
     Mint event tickets as NFTs. Transfer = resale (with royalty enforced by XRPL). Check-in burns the ticket. Every mint, transfer, and burn is on-chain.
