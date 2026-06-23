@@ -4,9 +4,12 @@ Actionable project ideas for building on the XRP Ledger. Each idea is scoped for
 
 ---
 
-## Make Waves
+## Drive Usage
 
 Build applications that drive real usage, sustainable TVL, and ecosystem growth on XRPL.
+
+> Note: the ecosystem-wide **Make Waves** opportunity registry now lives in its own
+> section — see [`make-waves/index.md`](../make-waves/index.md).
 
 ### Payments & Micropayments
 
