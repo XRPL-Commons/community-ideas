@@ -2,8 +2,6 @@
 
 Unlike the [Hackathon](../hackathon/index.md) and [Platform](../platform/index.md) lists — which are scoped, demoable builds — these are **market gaps**: spaces where the ecosystem needs something built. Each is tagged by **type** (`APP` for users · `TOOL` for builders) and **tier** (`HIGH` ecosystem-wide multiplier · `MEDIUM` community/regulatory demand · `LOW` specific vertical or novelty), along with its source registry id.
 
-> Imported as-is from the source registry. Overlaps with existing Hackathon/Platform ideas are flagged in [`../ideas.json`](../ideas.json) (`overlaps_with`) and are **not yet deduplicated**. Source anomalies are preserved verbatim: ID `OPP-016` appears twice in the source, and `OPP-026` is absent.
-
 ---
 
 ## Wallets
