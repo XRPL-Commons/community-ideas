@@ -1,7 +1,5 @@
 # Make Waves — Builder Opportunities
 
-74 market opportunities on the XRP Ledger — gaps the ecosystem needs filled — sourced from the [XRPL Builder Opportunities registry](https://xrpl-builder.vercel.app/en/opportunities) (PWG, ATKA, ecosystem, YC, and founder interviews).
-
 Unlike the [Hackathon](../hackathon/index.md) and [Platform](../platform/index.md) lists — which are scoped, demoable builds — these are **market gaps**: spaces where the ecosystem needs something built. Each is tagged by **type** (`APP` for users · `TOOL` for builders) and **tier** (`HIGH` ecosystem-wide multiplier · `MEDIUM` community/regulatory demand · `LOW` specific vertical or novelty), along with its source registry id.
 
 > Imported as-is from the source registry. Overlaps with existing Hackathon/Platform ideas are flagged in [`../ideas.json`](../ideas.json) (`overlaps_with`) and are **not yet deduplicated**. Source anomalies are preserved verbatim: ID `OPP-016` appears twice in the source, and `OPP-026` is absent.
@@ -317,7 +315,5 @@ Unlike the [Hackathon](../hackathon/index.md) and [Platform](../platform/index.m
     `APP`, `LOW`, `OPP-067`
 
 ---
-
-**Source tags:** PWG-1/2/3/4, ATKA, ECO, YC, and founder interviews (djason, xavier, florian, florence, guillaume, thomas, kevin).
 
 Contribute to this list on [GitHub](https://github.com/XRPL-Commons/community-ideas/blob/main/make-waves/index.md).
